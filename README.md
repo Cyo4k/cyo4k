@@ -1,5 +1,8 @@
 ## Bem-vindo(a) ao meu perfil😁
 
+🌱Estudando JavaScript, HTML5 E CSS3
+
+
  <div>
    <a href="https://github.com/Cyo4k">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cyo4k&show_icons=true&theme=gruvbox"/>
