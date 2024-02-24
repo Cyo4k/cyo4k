@@ -8,12 +8,15 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cyo4k&show_icons=true&theme=gruvbox"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyo4k&layout=compact&langs_count=6&theme=gruvbox"/>
 
-</div>
+</div>![java-14-logo-png-transparent](https://github.com/Cyo4k/cyo4k/assets/93006521/861882ef-1a54-4917-b6ae-cc48167dc1e5)
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/java-original.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Fsearch%3Fq%3Djava&psig=AOvVaw2mmk0lFkaw4hMDXb6Z3pGb&ust=1708897631470000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLCQyvb5xIQDFQAAAAAdAAAAABAJ)">
+   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/java.svg">
+
+
 </div>
  
  <br>
