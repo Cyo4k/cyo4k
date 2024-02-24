@@ -8,7 +8,6 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cyo4k&show_icons=true&theme=gruvbox"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyo4k&layout=compact&langs_count=6&theme=gruvbox"/>
 
-</div>![java-14-logo-png-transparent](https://github.com/Cyo4k/cyo4k/assets/93006521/861882ef-1a54-4917-b6ae-cc48167dc1e5)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
